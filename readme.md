@@ -2,6 +2,8 @@
 
 ![Status](https://img.shields.io/badge/status-in%20development-orange)
 
+[STL files Here](https://grabcad.com/library/simple-concert-monitor_mechanical-1)
+
 ---
 
 This repository contains the mechanical design of the enclosure for the [Simple Concert Monitor](https://github.com/L0ranos/simple-concert-monitor) software. All parts were developed using Autodesk Inventor.
