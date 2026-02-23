@@ -9,7 +9,8 @@ This repository contains the mechanical design of the enclosure for the [Simple 
 The first version of the enclosure looks as follows:
 
 <p align="center">
-	<img src="images/real_device_v_0_0_0.jpeg" width="75%" />
+	<img src="images/real_device_1_v_0_0_0.jpg" width="45%" />
+	<img src="images/real_device_2_v_0_0_0.jpg" width="45%" />
 </p>
 
 ---
