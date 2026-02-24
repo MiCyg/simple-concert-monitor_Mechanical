@@ -6,7 +6,7 @@
 
 ---
 
-This repository contains the mechanical design of the enclosure for the [Simple Concert Monitor](https://github.com/L0ranos/simple-concert-monitor) software. All parts were developed using Autodesk Inventor.
+This repository contains the mechanical design of the enclosure for the [Simple Concert Monitor](https://github.com/MiCyg/simple-concert-monitor) software. All parts were developed using Autodesk Inventor.
 
 The first version of the enclosure looks as follows:
 
